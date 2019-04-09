@@ -1,4 +1,6 @@
 1. Decide what kind of pizza you want
-2. Place order
+2. Call pizza place
+  a. If they answer, place order and go to #3
+  b. If they don't answer, go back to #2
 3. Wait
 4. Pay the delivery person
